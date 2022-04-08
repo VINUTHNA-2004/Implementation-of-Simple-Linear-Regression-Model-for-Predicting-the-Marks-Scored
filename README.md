@@ -27,7 +27,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: D.R.VINUTHNA
 RegisterNumber:  212221230017
 */
-```
 import numpy as np
 
 import pandas as pd
@@ -83,7 +82,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 
 plt.show()
-
+```
 ## Output:
 ![simple linear regression model for predicting the marks scored](https://github.com/VINUTHNA-2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-04-08%20101623%20ml.png?raw=true)
 
